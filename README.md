@@ -17,8 +17,9 @@ The repository currently includes code implementations for the following numeric
 ## Installation
 To use the code in this repository, you can clone the repository using the following command:
 
-git clone https://github.com/your-username/repository-name.git
-
+```bash
+git clone git@github.com:sinaaasghari/Numerical_analysis.git
+```
 
 ## Usage
 Each directory in the repository corresponds to a specific numerical method and contains the necessary code files. You can navigate to the respective directory and run the code using your preferred programming language. Make sure you have the required dependencies installed.
